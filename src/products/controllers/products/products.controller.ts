@@ -13,7 +13,7 @@ export class ProductsController {
     }
 
     @Post()
-    createUser(@Body() createProductDto: CreateProductDto) {
+    createProduct(@Body() createProductDto: CreateProductDto) {
         return this.productService.createProduct(createProductDto)
     }
 }
