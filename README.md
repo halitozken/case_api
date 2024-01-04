@@ -1,9 +1,3 @@
-
-# Case API
-
-TurkTicaret.Net Node.js Case API
-
-
 # API USAGE
 
 ### USER
